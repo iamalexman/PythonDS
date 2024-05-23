@@ -1,4 +1,4 @@
-# PythonDS-beginner
+# PythonDS
 ## Python Data Science piscine
 
 
